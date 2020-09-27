@@ -5,7 +5,7 @@
 ## How to 
 This is an apk build of a school AR project. The apk is at :  
   
-<a href="./iLoveAr.apk" download>apk</a>  
+<a id="raw-url" href="https://raw.githubusercontent.com/ozcanseker/iLoveAr-Build/master/iLoveAr.apk">apk</a>  
   
 You can install in on your phone. After this you have to focus the camera on the following reference image:   
    
